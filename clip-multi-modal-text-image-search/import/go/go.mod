@@ -26,7 +26,7 @@ require (
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
 	github.com/oklog/ulid v1.3.1 // indirect
 	go.mongodb.org/mongo-driver v1.9.1 // indirect
-	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/text v0.14.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
