@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.7",
-    "express": "^4.17.3",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
     "weaviate-client": "^2.3.0",
     "node-pandas": "git+https://github.com/stack-finance/node-pandas.git",
     "node-fetch": "^2.6.7"
